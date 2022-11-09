@@ -2,7 +2,7 @@ Hola, soy Gregorio Escobar, Desarrollador Web Full Stack y voy a contarte un poc
 
 Desde pequeño siempre tuve un gusto particular por las computadoras y la tecnología, me encantan los videojuegos y soy un apasionado del fútbol. Decidí inclinar mis estudios universitarios hacia la Ingeniería Industrial, logré obtener mi título de grado y así comenzar mi carrera laboral.
 
-Estuve en una empresa comercializadora productos de consumo masivo,  empresas de logística y agro, y distribuidoras de artículos de ferretería, en todas ellas me desempeñé en el área de compras, soy una persona muy analítica y organizada y esto me sirvió mucho al momento de planificar compras, negociar con proveedores, además debía mantener una comunicación fluida con los distintos sectores para conocer los requerimientos y el presupuesto disponible de forma mensual. 
+Estuve en empresas de distintos rubros y en todas ellas me desempeñé en el área de compras, soy una persona muy analítica y organizada y esto me sirvió mucho al momento de planificar compras, negociar con proveedores, además debía mantener una comunicación fluida con los distintos sectores para conocer los requerimientos y el presupuesto disponible de forma mensual. 
 
 Me sentía a gusto realizando estas tareas pero nunca llegué a sentirme del todo bien, me faltaba algo, fue entonces que decidí iniciar mis estudios de programación y terminé enamorándome de este mundo. 
 
