@@ -30,7 +30,7 @@ Si quieres saber más sobre mí, te invito a contactarme:
  
 
 <p>
-    <a href="https://gregorioescobar_28@hotmail.com">
+    <a href="mailto:gregorioescobar_28@hotmail.com">
       <img align="center" width=40px src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-512.png"/>
     </a>    
     <a href="https://www.linkedin.com/in/gregorioescobar28">
