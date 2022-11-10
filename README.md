@@ -1,4 +1,5 @@
-Hola, soy Gregorio Escobar, Desarrollador Web Full Stack y voy a contarte un poco acerca de mi. 
+# Hola, soy Gregorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+Soy desarrollador Full Stack y voy a contarte un poco de mi.
 
 Desde pequeño siempre tuve un gusto particular por las computadoras y la tecnología, me encantan los videojuegos y soy un apasionado del fútbol. Decidí inclinar mis estudios universitarios hacia la Ingeniería Industrial, logré obtener mi título de grado y así comenzar mi carrera laboral.
 
