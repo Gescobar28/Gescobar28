@@ -27,11 +27,18 @@ Aprendí tecnologías y herramientas como: Javascript, React, Redux, Node, Expre
 </div>
 
 Si quieres saber más sobre mí, te invito a contactarme:
+ 
 
-Email: gregorioescobar_28@hotmail.com
-
-Linkedin: linkedin.com/in/gregorioescobar28
-
-Whatsapp: +54 261-2652733
+<p>
+    <a href="https://gregorioescobar_28@hotmail.com">
+      <img align="center" width=40px src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-512.png"/>
+    </a>    
+    <a href="https://www.linkedin.com/in/gregorioescobar28">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+    </a>
+  <a href="https://wa.me/542612652733">
+      <img align="center" width=40px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png"/>
+    </a>
+<p/>
 
 
