@@ -1,13 +1,10 @@
 <h2>Hola, soy Gregorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> </h2>
+
 Soy desarrollador Full Stack y voy a contarte un poco de mi.
 
-Desde pequeño siempre tuve un gusto particular por las computadoras y la tecnología, me encantan los videojuegos y soy un apasionado del fútbol. Decidí inclinar mis estudios universitarios hacia la Ingeniería Industrial, logré obtener mi título de grado y así comenzar mi carrera laboral.
+Además de ser desarrollador Full Stack, también soy Ingeniero Industrial, esto me ha permitido unir mis habilidades técnicas, mi experiencia en otros campos y mi creatividad, para crear soluciones digitales de calidad.
 
-Estuve en empresas de distintos rubros y en todas ellas me desempeñé en el área de compras, soy una persona muy analítica y organizada y esto me sirvió mucho al momento de planificar compras, negociar con proveedores, además debía mantener una comunicación fluida con los distintos sectores para conocer los requerimientos y el presupuesto disponible de forma mensual. 
-
-Me sentía a gusto realizando estas tareas pero nunca llegué a sentirme del todo bien, me faltaba algo, fue entonces que decidí iniciar mis estudios de programación y terminé enamorándome de este mundo. 
-
-Aprendí tecnologías y herramientas como: Javascript, React, Redux, Node, Express, PostgreSQL, Sequelize, HTML, CSS, Git, Github, Trello. Mi objetivo es poder seguir formándome y aprender nuevas tecnologías que me permitan seguir creciendo y mejorando día a día.
+Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades de programación. Me encanta trabajar en equipo, colaborar en proyectos desafiantes y disfruto de resolver problemas complejos.
 
 
 # <h3>Tecnologías y herramientas:</h3>
